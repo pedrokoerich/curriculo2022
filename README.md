@@ -7,3 +7,6 @@
     <li>CSS3</li>
     <li>Bootstrap</li>
 </ul>
+<hr/>
+<h3>Link de acesso ao Currículo</h3>
+<li>https://pedrokoerich.github.io/curriculo2022</li>
